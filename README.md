@@ -1,5 +1,7 @@
 # Claude Code Team Setup
 
+[![Watch the walkthrough video on YouTube](https://img.youtube.com/vi/FKkVsDQsNbg/maxresdefault.jpg)](https://www.youtube.com/watch?v=FKkVsDQsNbg)
+
 Video walkthrough: https://www.youtube.com/watch?v=FKkVsDQsNbg
 
 Five files that give Claude Code rules, a deny list, and a review step it can't skip by forgetting:
